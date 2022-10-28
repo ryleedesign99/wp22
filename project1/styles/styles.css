@@ -3,7 +3,7 @@ p {
 }
 
 body {
-  background-image: url('https://static.wikia.nocookie.net/bioshock/images/b/b8/BaSE1_Rapture_1958.png/revision/latest?cb=20160110172354');
+  background-image: url('../images/BaSE1_Rapture_1958.webp');
 }
 
 .grid-container {
